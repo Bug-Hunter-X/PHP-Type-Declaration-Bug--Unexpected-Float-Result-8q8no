@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP related to type declarations. The `foo` function incorrectly declares its return type as `int` when it should be `float` to handle all possible results. The `bar` function demonstrates the correct type declaration.
